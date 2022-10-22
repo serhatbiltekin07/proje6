@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+h3 {
+  margin-left: 100px;
+  margin-top: 20px;
+}
+.img {
+  margin-left: 750px;
+  margin-top: 220px;
+}
+.search {
+  width: 450px;
+  border: 3px;
+  margin-left: 700px;
+  padding: 5px;
+  background-color: #d8e3e7;
+}
+
+.card {
+  width: 20%;
+  height: 45%;
+  float: left;
+  padding: 5%;
+  margin-right: 2%;
+  background-color: aquamarine;
+}
+
+.content {
+  width: 800px;
+  height: 260px;
+  margin-left: 550px;
+  margin-top: 10px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.altbilgi {
+  text-align: center;
+}
+#search {
+  margin-left: 150px;
+}
+.button {
+  margin-left: 130px;
+}
